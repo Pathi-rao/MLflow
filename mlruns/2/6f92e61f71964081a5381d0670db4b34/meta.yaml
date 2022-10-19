@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Github/2022/MLflow/mlruns/2/6f92e61f71964081a5381d0670db4b34/artifacts
+end_time: 1666209335875
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: 6f92e61f71964081a5381d0670db4b34
+run_uuid: 6f92e61f71964081a5381d0670db4b34
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666209334346
+status: 3
+tags: []
+user_id: laksh
